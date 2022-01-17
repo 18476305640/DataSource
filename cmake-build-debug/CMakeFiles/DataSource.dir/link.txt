@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/DataSource.dir/main.c.o CMakeFiles/DataSource.dir/_1_LineList/LineList_impl.c.o CMakeFiles/DataSource.dir/_2_LinkList/LinkList_impl.c.o  -o DataSource 
