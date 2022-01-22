@@ -1,3 +1,3 @@
-/home/zhuangjie/code/C/DataSource/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/zhuangjie/code/C/DataSource/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/zhuangjie/code/C/DataSource/cmake-build-debug/CMakeFiles/DataSource.dir
+/mnt/D05A5E865A5E68EC/code/C/DataSource/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/D05A5E865A5E68EC/code/C/DataSource/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/D05A5E865A5E68EC/code/C/DataSource/cmake-build-debug/CMakeFiles/DataSource.dir

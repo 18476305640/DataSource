@@ -1,13 +1,19 @@
-#include "_2_LinkList/LinkList.h"
+#include "_3_Queue/queue.h"
 int main() {
-    LinkedList list;
-    initializeList(&list);
-    addTail(&list,1);
-    addTail(&list,2);
-    addTail(&list,3);
-    addTail(&list,5);
-    PrintLinkList(&list);
-    delete(&list,getNode(&list,5));
-    PrintLinkList(&list);
+    Queue queue;
+    initQueue(&queue);
+
+    for (int i = 0; i < 5; ++i) {
+        queue_push(&queue, i);
+    }
+    for (int i = 0; i < 3; ++i) {
+        queue_pop(&queue);
+    }
+    for (int i = 0; i < 2; ++i) {
+        queue_push(&queue, i);
+    }
+
+
+    PrintQueue(&queue);
     return 0;
 }

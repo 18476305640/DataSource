@@ -1,11 +1,4 @@
-/home/zhuangjie/software/clion-2020.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/zhuangjie/code/C/DataSource
--- The C compiler identification is GNU 9.4.0
--- Check for working C compiler: /usr/bin/cc
--- Check for working C compiler: /usr/bin/cc - works
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Detecting C compile features
--- Detecting C compile features - done
+/home/zhuangjie/software/clion-2020.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/D05A5E865A5E68EC/code/C/DataSource
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/zhuangjie/code/C/DataSource/cmake-build-debug
+-- Build files have been written to: /mnt/D05A5E865A5E68EC/code/C/DataSource/cmake-build-debug
