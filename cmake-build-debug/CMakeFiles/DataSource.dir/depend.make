@@ -7,9 +7,10 @@ CMakeFiles/DataSource.dir/_1_LineList/LineList_impl.c.o: ../_1_LineList/LineList
 CMakeFiles/DataSource.dir/_2_LinkList/LinkList_impl.c.o: ../_2_LinkList/LinkList.h
 CMakeFiles/DataSource.dir/_2_LinkList/LinkList_impl.c.o: ../_2_LinkList/LinkList_impl.c
 
-CMakeFiles/DataSource.dir/_3_Queue/queue_impl.c.o: ../_3_Queue/queue.h
 CMakeFiles/DataSource.dir/_3_Queue/queue_impl.c.o: ../_3_Queue/queue_impl.c
 
-CMakeFiles/DataSource.dir/main.c.o: ../_3_Queue/queue.h
+CMakeFiles/DataSource.dir/_4_Tree/tree.c.o: ../_4_Tree/tree.c
+
+CMakeFiles/DataSource.dir/main.c.o: ../_4_Tree/tree.h
 CMakeFiles/DataSource.dir/main.c.o: ../main.c
 

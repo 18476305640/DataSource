@@ -224,6 +224,33 @@ _3_Queue/queue_impl.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataSource.dir/build.make CMakeFiles/DataSource.dir/_3_Queue/queue_impl.c.s
 .PHONY : _3_Queue/queue_impl.c.s
 
+_4_Tree/tree.o: _4_Tree/tree.c.o
+
+.PHONY : _4_Tree/tree.o
+
+# target to build an object file
+_4_Tree/tree.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataSource.dir/build.make CMakeFiles/DataSource.dir/_4_Tree/tree.c.o
+.PHONY : _4_Tree/tree.c.o
+
+_4_Tree/tree.i: _4_Tree/tree.c.i
+
+.PHONY : _4_Tree/tree.i
+
+# target to preprocess a source file
+_4_Tree/tree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataSource.dir/build.make CMakeFiles/DataSource.dir/_4_Tree/tree.c.i
+.PHONY : _4_Tree/tree.c.i
+
+_4_Tree/tree.s: _4_Tree/tree.c.s
+
+.PHONY : _4_Tree/tree.s
+
+# target to generate assembly for a file
+_4_Tree/tree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataSource.dir/build.make CMakeFiles/DataSource.dir/_4_Tree/tree.c.s
+.PHONY : _4_Tree/tree.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -269,6 +296,9 @@ help:
 	@echo "... _3_Queue/queue_impl.o"
 	@echo "... _3_Queue/queue_impl.i"
 	@echo "... _3_Queue/queue_impl.s"
+	@echo "... _4_Tree/tree.o"
+	@echo "... _4_Tree/tree.i"
+	@echo "... _4_Tree/tree.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

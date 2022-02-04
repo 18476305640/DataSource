@@ -8,7 +8,7 @@ typedef int  ElemType;
 typedef  struct {
     int head;
     int tail;
-    ElemType *queueArr;
+    void *queueArr;
     int length;
     int capacity;
 }Queue;
